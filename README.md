@@ -34,3 +34,5 @@ In the 20×20 grid below, four numbers along a diagonal line have been marked in
  01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48 <br/>
 
 The product of these numbers is 26 × 63 × 78 × 14 = 1788696 Read this grid from a text file using the .NET System.IO library. Once the data is read, implement a method to calculate the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid   
+
+The answer here is wrong. Product of the answer should be 70 600 674.
